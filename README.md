@@ -1,4 +1,4 @@
-### <div style="display: flex; justify-content: center"><img width="25%" src="https://github.com/niloodev/niloodev.github.io/blob/main/favicon.png"></div>
+### <div align="center"><img width="35%" src="https://github.com/niloodev/niloodev.github.io/blob/main/favicon.png"></div>
 ### <div align="center">Olá! Meu nome é Ezequiel Nilo, e eu sou um Desenvolvedor Júnior. 🐸</div>  
   
 
