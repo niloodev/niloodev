@@ -2,7 +2,7 @@
 ### <div align="center"> Olá! Meu nome é Ezequiel Nilo, e eu sou um Desenvolvedor Júnior. 🐸 </div>  
   
 
-### <div align="center" fontSize="10px"> - 📚 Estudante de Ciências da Computação na UNIP. </div>
+### <div align="center" style="font-size: 9px;"> - 📚 Estudante de Ciências da Computação na UNIP. </div>
   
 
 ### <div align="center"> - 🌱 Atualmente quebrando a cabeça com TypeScript + Next.js. </div>  
