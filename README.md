@@ -13,7 +13,7 @@
 - 💚 I really enjoy coding in Javascript / Typescript and its technologies, but I know other languages too!
   
 
-- ☕ **Fact aout me** ~ really enjoy frogs and coffee <3
+- ☕ **Fact about me >.<** ~ really enjoy frogs and coffee <3
   
 
 <br/>  
