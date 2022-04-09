@@ -1,23 +1,23 @@
 ### <div align="center"><img width="26.5%" src="https://github.com/niloodev/niloodev.github.io/blob/main/favicon.png"></div>
-### <div align="center"> Olá! Meu nome é Ezequiel Nilo, e eu sou um Desenvolvedor Júnior. 🐸 </div>  
+### <div align="center"> Hello! My name is Ezequiel Nilo, and I'm a Junior Developer. 🐸 </div>  
   
 
-- 📚 Estudante de Ciências da Computação na UNIP.
+- 📚 Computer Science Student at UNIP.
   
 
-- 🌱 Atualmente quebrando a cabeça com TypeScript + Next.js.
+- 🌱 Currently addicted to Typescript and Next.Js.
   
 
-- 💚 Amo codar em Javascript e explorar suas tecnologias, mas possuo conhecimentos em outras linguagens também! 
+- 💚 I really enjoy coding in Javascript / Typescript and its technologies, but I know other languages too!
   
 
-- ☕ **Curiosidade** ~ amo café <3
+- ☕ **Fact aout me** ~ really enjoy frogs and coffe <3
   
 
 <br/>  
 
 
-## Habilidades
+## Skills
 <table><tr><td valign="top" width="50%">
 
 
@@ -61,7 +61,7 @@
 <br/>  
 
 
-## Contato
+## Contact me
 <div align="center">
 <a href="https://github.com/niloodev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
