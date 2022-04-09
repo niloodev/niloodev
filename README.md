@@ -1,4 +1,4 @@
-### <div align="center"><img width="26.5%" src="https://github.com/niloodev/niloodev.github.io/blob/main/favicon.png"></div>
+### <div align="center"><img width="26.5%" src="./niloodev-banner.png"></div>
 ### <div align="center"> Hello! My name is Ezequiel Nilo, and I'm a Junior Developer. 🐸 </div>  
   
 - 💒 São Paulo - Brazil
