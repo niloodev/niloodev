@@ -7,7 +7,7 @@
 - 📚 Computer Science Student at UNIP.
   
 
-- 🌱 Currently addicted to TypeScript and Next.Js.
+- 🌱 Currently addicted to TypeScript and Next.
   
 
 - 💚 I really enjoy coding in JavaScript / TypeScript and its technologies, but I know other languages too!
