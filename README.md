@@ -7,7 +7,7 @@
 - 📚 Computer Science Student at UNIP.
   
 
-- 🌱 Currently enjoying TypeScript and Next.
+- 🌱 Currently trying to improve my Github with some projects. 
   
 
 - 💚 I really enjoy coding in JavaScript / TypeScript and its technologies, but I know other languages too!
