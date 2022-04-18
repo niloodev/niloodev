@@ -1,5 +1,5 @@
 ### <div align="center"><img width="26.5%" src="https://github.com/niloodev/niloodev.github.io/blob/main/favicon.png"></div>
-### <div align="center"> Hi! My name is Ezequiel Nilo, and I'm a Junior Developer. 🐸 </div>  
+### <div align="center"> Hi! My name is Ezequiel Nilo, and I'm a developer. 🐸 </div>  
   
 - 💒 São Paulo - Brazil.
 
