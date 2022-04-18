@@ -1,5 +1,5 @@
 ### <div align="center"><img width="26.5%" src="https://github.com/niloodev/niloodev.github.io/blob/main/favicon.png"></div>
-### <div align="center"> Hi! My name is Ezequiel Nilo, and I'm a dev. 🐸 </div>  
+### <div align="center"> Hi! My name is Ezequiel Nilo, and I'm a passionate developer. 🐸 </div>  
   
 - 💒 São Paulo - Brazil.
 
@@ -7,7 +7,7 @@
 - 📚 Computer Science Student at UNIP.
   
 
-- 🌱 Currently addicted to TypeScript and Next.
+- 🌱 Currently enjoying TypeScript and Next.
   
 
 - 💚 I really enjoy coding in JavaScript / TypeScript and its technologies, but I know other languages too!
