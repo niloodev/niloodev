@@ -4,13 +4,13 @@
 - 💒 São Paulo - Brazil.
 
 
-- 📚 Computer Science Student at UNIP.
+- 💻 [OKN GROUP](https://www.okngroup.com.br/) developer.
+
+
+- 📚 Computer Science student at UNIP.
   
 
 - 🌱 Currently trying to improve my Github with some projects. 
-
-
-- 💻 [OKN GROUP](https://www.okngroup.com.br/) developer.
   
 
 - 💚 I really enjoy coding in JavaScript / TypeScript and its technologies, but I know other languages too!
