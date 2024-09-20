@@ -4,7 +4,7 @@
 - 💒 São Paulo - Brazil.
 
 
-- 💻 [OKN GROUP](https://www.okngroup.com.br/) developer.
+- 💻 [ESX](https://esx.com.br/) front-end developer.
   
 
 - 💚 I really enjoy coding in JavaScript / TypeScript and its technologies - addicted in web development.
