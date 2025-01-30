@@ -101,6 +101,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/niloodev/niloodev/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/niloodev/niloodev/blob/3fbfe12c03dd83a655637d99506b2e5ccdbe829d/snake-svg.svg" alt="Snake animation" />
 
 ###
