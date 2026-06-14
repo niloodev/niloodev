@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 52" width="760" height="52" font-family="&#39;Courier New&#39;,Courier,monospace">
+  <defs><pattern id="sc" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#ffffff" opacity="0.03"></rect></pattern></defs>
+  <rect x="1.5" y="1.5" width="757" height="49" rx="10" fill="#0B0E14" stroke="#1F8F3A" stroke-width="1.5"></rect>
+  <text x="22" y="34" font-size="22" font-weight="bold" fill="#3F9A16">❯</text>
+  <text x="46" y="33" font-size="20" letter-spacing="1" fill="#8FD119">git log --stat</text>
+  <rect x="1.5" y="1.5" width="757" height="49" rx="10" fill="url(#sc)"></rect>
+</svg>
