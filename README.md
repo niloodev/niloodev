@@ -159,12 +159,12 @@ I design and ship **MCP servers** that plug LLMs into real tools, data and syste
 <h2><img src="assets/sec-stats.svg" width="100%" alt="$ git log --stat" /></h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=niloodev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4DA814&icon_color=8FD119&text_color=C9D1D9&bg_color=0D1117" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=niloodev&layout=compact&langs_count=8&hide_border=true&title_color=4DA814&text_color=C9D1D9&bg_color=0D1117" alt="top languages" />
+  <img height="165" src="https://github-readme-stats-niloodev.vercel.app/api?username=niloodev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4DA814&icon_color=8FD119&text_color=C9D1D9&bg_color=0D1117" alt="github stats" />
+  <img height="165" src="https://github-readme-stats-niloodev.vercel.app/api/top-langs?username=niloodev&layout=compact&langs_count=8&hide_border=true&title_color=4DA814&text_color=C9D1D9&bg_color=0D1117" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloodev&hide_border=true&background=0D1117&ring=4DA814&fire=8FD119&currStreakLabel=4DA814&sideLabels=C9D1D9&dates=7E89A0&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=niloodev&hide_border=true&background=0D1117&ring=4DA814&fire=8FD119&currStreakLabel=4DA814&sideLabels=C9D1D9&dates=7E89A0&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 </div>
 
 <!-- Animated contribution graph (green). Remove this block if you don't want it. -->
