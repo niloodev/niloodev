@@ -192,7 +192,7 @@ I design and ship **MCP servers** that plug LLMs into real tools, data and syste
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niloodev/niloodev/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niloodev/niloodev/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://github.com/niloodev/niloodev/blob/3fbfe12c03dd83a655637d99506b2e5ccdbe829d/snake-svg.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/niloodev/niloodev/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <!-- ░░░ FOOTER ░░░ -->
