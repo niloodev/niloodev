@@ -164,7 +164,7 @@ I design and ship **MCP servers** that plug LLMs into real tools, data and syste
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=niloodev&hide_border=true&background=0D1117&ring=4DA814&fire=8FD119&currStreakLabel=4DA814&sideLabels=C9D1D9&dates=7E89A0&currStreakNum=C9D1D9&sideNums=C9D1D9&v=2" alt="streak" />
+  <img src="https://github-readme-streak-stats-niloodev.vercel.app/?user=niloodev&hide_border=true&background=0D1117&ring=4DA814&fire=8FD119&currStreakLabel=4DA814&sideLabels=C9D1D9&dates=7E89A0&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 </div>
 
 <!-- Animated contribution graph (green). Remove this block if you don't want it. -->
