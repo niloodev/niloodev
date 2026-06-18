@@ -1,7 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 52" width="760" height="52" font-family="&#39;Courier New&#39;,Courier,monospace">
-  <defs><pattern id="sc" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#ffffff" opacity="0.03"></rect></pattern></defs>
-  <rect x="1.5" y="1.5" width="757" height="49" rx="10" fill="#0B0E14" stroke="#1F8F3A" stroke-width="1.5"></rect>
-  <text x="22" y="34" font-size="22" font-weight="bold" fill="#3F9A16">❯</text>
-  <text x="46" y="33" font-size="20" letter-spacing="1" fill="#8FD119">./mcp --serve</text>
-  <rect x="1.5" y="1.5" width="757" height="49" rx="10" fill="url(#sc)"></rect>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 56" width="760" height="56" font-family="&#39;JetBrains Mono&#39;,&#39;Courier New&#39;,Courier,monospace">
+  <defs>
+    <clipPath id="c"><rect x="1.5" y="1.5" width="757" height="53" rx="10"></rect></clipPath>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#2a3039" stroke-width="1" opacity="0.5"></path>
+    </pattern>
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1.5" fill="#000000" opacity="0.16"></rect>
+    </pattern>
+  </defs>
+  <rect x="1.5" y="1.5" width="757" height="53" rx="10" fill="#0d0f13" stroke="#2a3039" stroke-width="1.5"></rect>
+  <g clip-path="url(#c)"><rect x="1.5" y="1.5" width="757" height="53" fill="url(#grid)"></rect></g>
+  <circle cx="26" cy="28" r="5" fill="#ff6b6b"></circle>
+  <circle cx="44" cy="28" r="5" fill="#f5c451"></circle>
+  <circle cx="62" cy="28" r="5" fill="#4ee98a"></circle>
+  <text x="88" y="34" font-size="20" letter-spacing="1"><tspan fill="#5d6675">$ </tspan><tspan fill="#6bffa3">./mcp --serve</tspan><tspan fill="#4ee98a">_</tspan></text>
+  <rect x="1.5" y="1.5" width="757" height="53" rx="10" fill="url(#scan)"></rect>
 </svg>

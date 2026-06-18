@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://github.com/niloodev">
     <img alt="headline"
-      src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1400&color=8FD119&center=true&vCenter=true&width=720&height=50&lines=Big+fan+of+frogs+and+dogs.;I+love+React%2C+but+I+think+Angular+is+better.;Cloud+%2B+K8s+is+the+coolest+thing+ever+made.;Itching+to+learn+more+about+hardware.;Next.js+PPR%3F+Genuinely+brilliant.;Mono+Akali+with+1M%2B+mastery+points.;Roguelikes+are+my+kind+of+chaos.;Can%27t+drink+coffee%2C+but+I+still+love+it.;Red+is+my+favorite+color+(even+if+I+use+green).;Obsessed+with+organization+(seriously)%2C+yet+flexible.;Praised+for+my+soft+skills+(and+I+can+code+too%2C+hihi).;CSS+and+Git+rule+styling+and+versioning.;Forever+a+Mario+and+Pok%C3%A9mon+fan.;Coding+just+makes+me+genuinely+happy." />
+      src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1400&color=4EE98A&center=true&vCenter=true&width=720&height=50&lines=Big+fan+of+frogs+and+dogs.;I+love+React%2C+but+I+think+Angular+is+better.;Cloud+%2B+K8s+is+the+coolest+thing+ever+made.;Itching+to+learn+more+about+hardware.;Next.js+PPR%3F+Genuinely+brilliant.;Mono+Akali+with+1M%2B+mastery+points.;Roguelikes+are+my+kind+of+chaos.;Can%27t+drink+coffee%2C+but+I+still+love+it.;Red+is+my+favorite+color+(even+if+I+use+green).;Obsessed+with+organization+(seriously)%2C+yet+flexible.;Praised+for+my+soft+skills+(and+I+can+code+too%2C+hihi).;CSS+and+Git+rule+styling+and+versioning.;Forever+a+Mario+and+Pok%C3%A9mon+fan.;Coding+just+makes+me+genuinely+happy." />
   </a>
 </div>
 
@@ -116,13 +116,13 @@
   <img height="48" title="npm" alt="npm" src="https://skillicons.dev/icons?i=npm" />
   <img height="48" title="Yarn" alt="Yarn" src="https://skillicons.dev/icons?i=yarn" />
   <br /><br />
-  <img height="38" title="Claude" alt="Claude" src="https://img.shields.io/badge/Claude-4DA814?style=for-the-badge&logo=claude&logoColor=white&labelColor=1F8F3A" />
-  <img height="38" title="Cursor" alt="Cursor" src="https://img.shields.io/badge/Cursor-4DA814?style=for-the-badge&logo=cursor&logoColor=white&labelColor=1F8F3A" />
-  <img height="38" title="GitHub Copilot" alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-4DA814?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=1F8F3A" />
-  <img height="38" title="Gemini" alt="Gemini" src="https://img.shields.io/badge/Gemini-4DA814?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1F8F3A" />
-  <img height="38" title="Kiro" alt="Kiro" src="https://img.shields.io/badge/Kiro-4DA814?style=for-the-badge&logoColor=white&labelColor=1F8F3A" />
-  <img height="38" title="Kombai AI" alt="Kombai AI" src="https://img.shields.io/badge/Kombai%20AI-4DA814?style=for-the-badge&logoColor=white&labelColor=1F8F3A" />
-  <img height="38" title="Figma Make" alt="Figma Make" src="https://img.shields.io/badge/Figma%20Make-4DA814?style=for-the-badge&logo=figma&logoColor=white&labelColor=1F8F3A" />
+  <img height="38" title="Claude" alt="Claude" src="https://img.shields.io/badge/Claude-14171D?style=for-the-badge&logo=claude&logoColor=4EE98A&labelColor=0D0F13" />
+  <img height="38" title="Cursor" alt="Cursor" src="https://img.shields.io/badge/Cursor-14171D?style=for-the-badge&logo=cursor&logoColor=4EE98A&labelColor=0D0F13" />
+  <img height="38" title="GitHub Copilot" alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-14171D?style=for-the-badge&logo=githubcopilot&logoColor=4EE98A&labelColor=0D0F13" />
+  <img height="38" title="Gemini" alt="Gemini" src="https://img.shields.io/badge/Gemini-14171D?style=for-the-badge&logo=googlegemini&logoColor=4EE98A&labelColor=0D0F13" />
+  <img height="38" title="Kiro" alt="Kiro" src="https://img.shields.io/badge/Kiro-14171D?style=for-the-badge&logoColor=4EE98A&labelColor=0D0F13" />
+  <img height="38" title="Kombai AI" alt="Kombai AI" src="https://img.shields.io/badge/Kombai%20AI-14171D?style=for-the-badge&logoColor=4EE98A&labelColor=0D0F13" />
+  <img height="38" title="Figma Make" alt="Figma Make" src="https://img.shields.io/badge/Figma%20Make-14171D?style=for-the-badge&logo=figma&logoColor=4EE98A&labelColor=0D0F13" />
 </details>
 
 <details open>
@@ -141,7 +141,7 @@
 <!-- ░░░ MCP ░░░ -->
 <h2><img src="assets/sec-mcp.svg" width="100%" alt="$ ./mcp --serve" /></h2>
 
-<img src="https://img.shields.io/badge/Model%20Context%20Protocol-4DA814?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1F8F3A" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/Model%20Context%20Protocol-14171D?style=for-the-badge&logo=anthropic&logoColor=4EE98A&labelColor=0D0F13" alt="Model Context Protocol" />
 
 I design and ship **MCP servers** that plug LLMs into real tools, data and systems.
 
@@ -159,16 +159,16 @@ I design and ship **MCP servers** that plug LLMs into real tools, data and syste
 <h2><img src="assets/sec-stats.svg" width="100%" alt="$ git log --stat" /></h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-niloodev.vercel.app/api?username=niloodev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4DA814&icon_color=8FD119&text_color=C9D1D9&bg_color=0D1117" alt="github stats" />
-  <img height="165" src="https://github-readme-stats-niloodev.vercel.app/api/top-langs?username=niloodev&layout=compact&langs_count=8&hide_border=true&title_color=4DA814&text_color=C9D1D9&bg_color=0D1117" alt="top languages" />
+  <img height="165" src="https://github-readme-stats-niloodev.vercel.app/api?username=niloodev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6BFFA3&icon_color=4EE98A&text_color=9AA4B2&bg_color=0D0F13" alt="github stats" />
+  <img height="165" src="https://github-readme-stats-niloodev.vercel.app/api/top-langs?username=niloodev&layout=compact&langs_count=8&hide_border=true&title_color=6BFFA3&text_color=9AA4B2&bg_color=0D0F13" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-niloodev.vercel.app/?user=niloodev&hide_border=true&background=0D1117&ring=4DA814&fire=8FD119&currStreakLabel=4DA814&sideLabels=C9D1D9&dates=7E89A0&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
+  <img src="https://github-readme-streak-stats-niloodev.vercel.app/?user=niloodev&hide_border=true&background=0D0F13&ring=4EE98A&fire=6BFFA3&currStreakLabel=4EE98A&sideLabels=9AA4B2&dates=5D6675&currStreakNum=E1E9EE&sideNums=E1E9EE" alt="streak" />
 </div>
 
 <!-- Animated contribution graph (green). Remove this block if you don't want it. -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=niloodev&hide_border=true&bg_color=0D1117&color=8FD119&line=4DA814&point=C9D1D9&area=true&area_color=4DA814&title_color=4DA814" alt="contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=niloodev&hide_border=true&bg_color=0D0F13&color=6BFFA3&line=4EE98A&point=E1E9EE&area=true&area_color=4EE98A&title_color=6BFFA3" alt="contribution activity graph" />
 
 <br />
 
@@ -179,10 +179,10 @@ I design and ship **MCP servers** that plug LLMs into real tools, data and syste
 
 <div align="center">
   <a href="mailto:ezeqnilo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=4DA814&logoColor=white&labelColor=1F8F3A&style=for-the-badge" height="38" alt="gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=14171D&logoColor=4EE98A&labelColor=0D0F13&style=for-the-badge" height="38" alt="gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ezeqnilo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4DA814&logoColor=white&labelColor=1F8F3A&style=for-the-badge" height="38" alt="linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=14171D&logoColor=4EE98A&labelColor=0D0F13&style=for-the-badge" height="38" alt="linkedin" />
   </a>
 </div>
 
@@ -198,4 +198,4 @@ I design and ship **MCP servers** that plug LLMs into real tools, data and syste
 <!-- ░░░ FOOTER ░░░ -->
 <div align="center"><sub><code>// thanks for scrolling — press START to continue</code></sub></div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F8F3A,100:B6E62A&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0F13,100:4EE98A&height=120&section=footer" alt="" />
